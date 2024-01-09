@@ -1,0 +1,10 @@
+# Ignorer les fichiers Python compilés
+__pycache__
+*.pyc
+*.pyo
+
+# Ignorer les fichiers de base de données
+*.db
+
+# Ignorer le fichier d'environnement
+.env
